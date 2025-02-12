@@ -1,0 +1,16 @@
+org\example\Wolf.class
+org\example\Monkey.class
+org\example\Computer.class
+org\example\IAlive.class
+org\example\IInventory.class
+org\example\Thing.class
+org\example\Rabbit.class
+org\example\Main.class
+org\example\Predator.class
+org\example\VeterinaryClinic.class
+org\example\Table.class
+org\example\Herbo.class
+org\example\Animal.class
+org\example\Tiger.class
+org\example\ZooService.class
+org\example\AppConfig.class
